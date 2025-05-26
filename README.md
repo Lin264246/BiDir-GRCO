@@ -25,7 +25,7 @@ Basic experiment Folder:
 
 * Amide Coupling Folder/C-N Cross-Coupling Folder/Deoxyfluorination Folder/Ni-catalyzed borylation Folder
 
-  **Stores the results and code in these four reaction datasets.**
+  **Stores the code in these four reaction.**
 * bandit Folder
 
   **the state-of-the-art models refer to the results of bandit optimization from the paper *"Identifying general reaction conditions by bandit optimization."
