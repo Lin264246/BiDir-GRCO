@@ -1,0 +1,13 @@
+base_name,ligand_name,base_ligand
+P2Et,XPhos,P2Et+XPhos
+P2Et,tBuXPhos,P2Et+tBuXPhos
+P2Et,tBuBrettPhos,P2Et+tBuBrettPhos
+P2Et,AdBrettPhos,P2Et+AdBrettPhos
+BTMG,XPhos,BTMG+XPhos
+BTMG,tBuXPhos,BTMG+tBuXPhos
+BTMG,tBuBrettPhos,BTMG+tBuBrettPhos
+BTMG,AdBrettPhos,BTMG+AdBrettPhos
+MTBD,XPhos,MTBD+XPhos
+MTBD,tBuXPhos,MTBD+tBuXPhos
+MTBD,tBuBrettPhos,MTBD+tBuBrettPhos
+MTBD,AdBrettPhos,MTBD+AdBrettPhos
